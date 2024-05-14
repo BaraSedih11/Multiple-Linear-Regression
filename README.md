@@ -50,6 +50,25 @@ Fit the model to the data.
 
 Predict the value of sample_house.
 
+## Usage
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/BaraSedih11/multiple-linear-Regression.git
+```
+
+2. Navigate to the repository directory:
+
+```bash
+cd multiple-linear-Regression
+```
+
+3. Open and run the Jupyter Notebook `multiple_linear_Regression.ipynb` using Jupyter Notebook or JupyterLab.
+
+4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+
+
 ## Acknowledgements
 
 - [scikit-learn](https://scikit-learn.org/): The scikit-learn library for machine learning in Python.
