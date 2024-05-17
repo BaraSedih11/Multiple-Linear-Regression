@@ -5,7 +5,7 @@
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Multiple-Linear-Regression) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Multiple-Linear-Regression) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Multiple-Linear-Regression/main)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Multiple-Linear-Regression/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/Multiple-Linear-Regression/releases/tag/v1.0.0)
 [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Multiple-Linear-Regression)](https://github.com/BaraSedih11/Multiple-Linear-Regression/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Multiple-Linear-Regression)
 <!-- ![GitHub issues](https://img.shields.io/github/issues-raw/BaraSedih11/Bookstore)  -->
@@ -66,7 +66,7 @@ cd multiple-linear-Regression
 
 3. Open and run the Jupyter Notebook `multiple_linear_Regression.ipynb` using Jupyter Notebook or JupyterLab.
 
-4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand how multiple linear regression is implemented using Python.
 
 
 ## Acknowledgements
